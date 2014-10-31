@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">समाचार</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus">
+        <item>सुर्खिया</item>
+        <item>विश्व</item>
+        <item>भारत</item>
+        <item>व्यवसाय</item>
+        <item>मनोरंजन</item>
+        <item>खेलकूद</item>
+        <item>और सुर्खियां</item>
+        <item>संपादक चुनें</item>
+        <item>सेटिंग्स</item>
+        <item>समाचार एप्लिकेशन</item>
+    </string-array>
+
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string-array name="syncFrequency">
+        <item name="light">Light</item>
+        <item name="dark">Dark</item>
+    </string-array>
+    <string-array name="syncFrequencyValues">
+        <item name="light">1</item>
+        <item name="dark">0</item>
+    </string-array>
+
+</resources>
