@@ -1,7 +1,7 @@
 समाचार
 =========
 
-Simple android app to browse reddit, available on [Play Store](https://play.google.com/store/apps/details?id=com.sauravtom.samachar)
+Android app to read news in Hindi Language, available on [Play Store](https://play.google.com/store/apps/details?id=com.sauravtom.samachar)
 
 <a href="https://play.google.com/store/apps/details?id=com.sauravtom.samachar">
   <img alt="Get it on Google Play"
